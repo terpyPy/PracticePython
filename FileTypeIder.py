@@ -7,7 +7,7 @@ import re
 pythonScript = []
 textFiles = []
 imageFiles = []
-userPath = r'C:\Users\coolc\Desktop'
+
 
 
 #
@@ -89,7 +89,7 @@ def searchDirectory(path):
             continue
             # close file
             # print(pathName)
-    return
+    
 #
 # searchDirectory(userPath)
 # if the list has any entries, print the list
