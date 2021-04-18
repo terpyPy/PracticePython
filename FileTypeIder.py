@@ -89,7 +89,7 @@ def searchDirectory(path):
             continue
             # close file
             # print(pathName)
-    
+userPath = os.curdir
 #
 # searchDirectory(userPath)
 # if the list has any entries, print the list
